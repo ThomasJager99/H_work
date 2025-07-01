@@ -1,0 +1,67 @@
+975  git clone git@github.com:ThomasJager99/H_work.git
+  976  ls
+  977  ls -ls
+  978  ls -la
+  979  cd H_work
+  980  ls
+  981  ls -al
+  982  git checkout -b feature
+  983  git branch 
+  984  nano README.md
+  985  git add .
+  986  git commit -m "Change a bit text README"
+  987  git push origin 
+  988  git push 
+  989  git status
+  990  clear
+  991  git branch 
+  992  git push origin main
+  993  ls
+  994  cat README.md
+  995  git push origin feature
+  996  clear
+  997  git branch 
+  998  git --ammend
+  999  git commit --ammend
+ 1000  git commit --amend
+ 1001  cd /Volumes/Thomas-Jager/Projects/ITHub_Lessons/GIT/H_work
+ 1002  ls -al
+ 1003  git branch 
+ 1004  git commit --amend
+ 1005  clear
+ 1006  ls -la
+ 1007  cat README.md
+ 1008  git log --oneline
+ 1009  git  log
+ 1010  clear
+ 1011  git commit --amend
+ 1012  git log
+ 1013  clear
+ 1014  git switch main
+ 1015  git branch -D feature
+ 1016  git branch 
+ 1017  git cheackout -b feature
+ 1018  git checkout -b feature
+ 1019  git branch 
+ 1020  ls -al
+ 1021  nano README.md
+ 1022  git add .
+ 1023  git commit -m "Mess a little with README"
+ 1024  git status
+ 1025  git log
+ 1026  clear
+ 1027  git push origin feature 
+ 1028  git commit --amend 
+ 1029  git log
+ 1030  git switch main 
+ 1031  clear
+ 1032  git merge feature 
+ 1033  git branch -D feature
+ 1034  ls
+ 1035  cat README.md
+ 1036  clear
+ 1037  git log --graph --oneline 
+ 1038  git log --graph
+ 1039  history 
+ 1040  history | tail -n 30 >> history.txt
+ 1041  fc -l -30
