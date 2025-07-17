@@ -1,0 +1,3 @@
+[submodule "git-branch"]
+	path = git-branch
+	url = git@github.com:ThomasJager99/git-branch.git
